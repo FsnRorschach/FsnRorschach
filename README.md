@@ -16,17 +16,19 @@ Atualmente atuo como Desenvolvedor.
 <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white">
 
 </a>
-<a href="mailto:<fabionovais2010@gmail.com>" alt="gmail" target="_blank">
+<a href="mailto:fabionovais2010@gmail.com" alt="gmail" target="_blank">
 
-<img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:<SEUEMAIL>" />
+<img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:fabionovais2010@gmail.com" />
 
 </a>
 <a href="https://wa.me/5511972371253" alt="WhatsApp" target="_blank">
 
-<img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://wa.me/<SEUNUMERO>"/>
+<img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://wa.me/5511972371253"/>
 
 </a>
+
 - Competências Técnicas:  
+
 <code>
 <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
 </code>
