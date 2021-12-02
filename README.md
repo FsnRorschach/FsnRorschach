@@ -1,51 +1,89 @@
 <h1  align="center">Bem Vindo, meu nome é Fabio Novais</h1>
+
 <div  align="center"> 
+  
   <p><strong>Este é minha página de apresentação.</strong></p>
 
   <p><strong>Sou formado em Análise e Desenvolvimento de Sistemas.</strong></p>
 
   <p><strong>Atualmente atuo como Desenvolvedor.</strong></p>
+  
 </div>
+
 <div  align="center"> 
-- Redes Sociais: 
-  <a href="https://github.com/FsnRorschach" alt="github" target="_blank">
+  
+Redes Sociais: 
+  
+<a href="https://github.com/FsnRorschach" alt="github" target="_blank">
 
-    <img src="https://img.shields.io/badge/GitHub-000000?&style=flat-square&logo=GitHub&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-000000?&style=flat-square&logo=GitHub&logoColor=white">
 
-  </a>
-  <a href="https://www.linkedin.com/in/fabio-novais-92a10b55/" alt="linkedin" target="_blank">
+</a>
+  
+<a href="https://www.linkedin.com/in/fabio-novais-92a10b55/" alt="linkedin" target="_blank">
 
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white">
+<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white">
 
-  </a>
-  <a href="mailto:fabionovais2010@gmail.com" alt="gmail" target="_blank">
+</a>
+  
+<a href="mailto:fabionovais2010@gmail.com" alt="gmail" target="_blank">
 
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:fabionovais2010@gmail.com" />
+<img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:fabionovais2010@gmail.com" />
 
-  </a>
-  <a href="https://wa.me/5511972371253" alt="WhatsApp" target="_blank">
+</a>
+  
+<a href="https://wa.me/5511972371253" alt="WhatsApp" target="_blank">
 
-  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://wa.me/5511972371253"/>
+<img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://wa.me/5511972371253"/>
 
-  </a>
+</a>
+  
 </div>
-- Competências Técnicas:  
+
+<div  align="center"> 
+  
+Competências Técnicas:  
 
 <code>
+  
 <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+  
 </code>
-<code>
-<img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg">
-</code>
-<code>
-<img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg">
-</code>
-<code>
-<img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg">
-</code>
-<code>
-<img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original-wordmark.svg">
-</code>
-<img src="https://github-readme-stats.vercel.app/api?username=FsnRorschach&show_icons=true&theme=tokyonight"/>
 
+<code>
+  
+<img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg">
+  
+</code>
+
+<code>
+  
+<img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg">
+  
+</code>
+
+<code>
+  
+<img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg">
+  
+</code>
+
+<code>
+  
+<img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original-wordmark.svg">
+  
+</code>
+  
+</div>
+
+
+<div  align="center"> 
+  
+<br><img min-width="300" src="https://github-readme-stats.vercel.app/api?username=FsnRorschach&show_icons=true&theme=tokyonight"/>
 <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=FsnRorschach&layout=compact&langs_count=8&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  
+<img align="center" width="148" height="180" src="https://media1.tenor.com/images/68e8337fb4eb7e40645d832c64762a8b/tenor.gif?itemid=19443613">
+  
+  ![Snake animation](https://github.com/FsnRorschach/FsnRorschach/blob/output/github-contribution-grid-snake.svg)
+  
+</div>  
