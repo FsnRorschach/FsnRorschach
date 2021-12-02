@@ -42,3 +42,6 @@ Atualmente atuo como Desenvolvedor.
 <code>
 <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original-wordmark.svg">
 </code>
+<img src="https://github-readme-stats.vercel.app/api?username=FsnRorschach&show_icons=true&theme=tokyonight"/>
+
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=FsnRorschach&layout=compact&langs_count=8&theme=tokyonight&include_all_commits=true&count_private=true"/>
