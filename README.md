@@ -1,10 +1,17 @@
-### Hi there 👋
+Bem Vindo
 
-<!--
-**FsnRorschach/FsnRorschach** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Este é minha página de apresentação.
 
-Here are some ideas to get you started:
+Sou formado em Análise e Desenvolvimento de Sistemas.
 
-- 🔭 I’m currently working on ...
+Atualmente atuo como Desenvolvedor.
 
-https://github-readme-stats.vercel.app/api/top-langs/?username=FsnRorschach&layout=compact&langs_count=7&theme=dracula
+- Redes Sociais: 
+
+- Competências Técnicas:  
+
+<a href="https://github.com/FsnRorschach" alt="github" target="_blank">
+
+<img src="https://img.shields.io/badge/GitHub-000000?&style=flat-square&logo=GitHub&logoColor=white">
+
+</a>
