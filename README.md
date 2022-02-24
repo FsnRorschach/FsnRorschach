@@ -6,7 +6,7 @@
 
   <p><strong>Sou formado em Análise e Desenvolvimento de Sistemas.</strong></p>
 
-  <p><strong>Atualmente atuo como Desenvolvedor.</strong></p>
+  <p><strong>Atualmente atuo como Desenvolvedor Junior.</strong></p>
   
 </div>
 
